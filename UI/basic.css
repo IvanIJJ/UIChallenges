@@ -1,0 +1,43 @@
+div.wrapper{
+    background-color:#1d2029;
+    width:1000px;
+    height:510px;
+    
+}
+
+
+div.content{
+    background-color: #2a2f3c;
+    height:150px;
+    width:200px;
+    margin:20px;
+    text-align: center;
+
+}
+div#zero{
+    text-align:right;
+}
+
+div#first{
+    float:left;  
+}
+
+div#overview{
+    background-color:#1d2029;
+    height:20px;
+    clear:left;
+}
+
+
+div.content2{
+    background-color: #2a2f3c;
+    height:100px;
+    width:200px;
+    margin:20px;
+    float:left
+}
+
+div#second{
+    clear:left;
+}
+

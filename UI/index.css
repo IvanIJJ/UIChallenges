@@ -1,0 +1,17 @@
+div.content{
+    background-color: #2a2f3c;
+    height:150px;
+    width:150px;
+    float:left;
+    margin:20px;
+}
+
+div.second{
+    background-color: #2a2f3c;
+    height:150px;
+    width:150px;
+    float:down;
+    margin:20px;
+}
+
+div#firsdown
